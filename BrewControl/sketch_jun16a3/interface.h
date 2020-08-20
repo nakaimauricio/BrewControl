@@ -1,2 +1,0 @@
-void interface(void);
-
